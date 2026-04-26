@@ -1,0 +1,51 @@
+query,boolean_precision,boolean_recall,bm25_precision,bm25_recall,sbert_precision,sbert_recall
+How do I course registration procedures?,0.0,0.0,0.6,1.0,0.6,1.0
+Guide for checking exam schedules,0.0,0.0,0.6,1.0,0.6,1.0
+Where can I find information about requesting official academic transcripts?,0.0,0.0,0.0,0.0,0.0,0.0
+What is the process for accessing your university email account?,0.0,0.0,0.2,0.3333333333333333,0.2,0.3333333333333333
+What is the process for checking exam schedules?,0.0,0.0,0.0,0.0,0.6,1.0
+What is the process for viewing the academic calendar?,0.0,0.0,0.0,0.0,0.6,1.0
+How do I resetting your university portal password?,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How can students understanding grading policies?,0.0,0.0,0.6,1.0,0.2,0.3333333333333333
+How do I requesting official academic transcripts?,0.0,0.0,0.0,0.0,0.0,0.0
+How can students booking appointments with academic advisors?,0.0,0.0,0.4,0.6666666666666666,0.4,0.6666666666666666
+What is the process for attendance and participation rules?,0.0,0.0,0.2,0.3333333333333333,0.4,0.6666666666666666
+How can students replacing a lost student id card?,0.0,0.0,0.6,1.0,0.6,1.0
+What is the process for replacing a lost student id card?,0.0,0.0,0.6,1.0,0.4,0.6666666666666666
+How do I troubleshooting login issues on the student portal?,0.0,0.0,0.4,0.6666666666666666,0.2,0.3333333333333333
+How can students installing university licensed software?,0.0,0.0,0.4,0.6666666666666666,0.4,0.6666666666666666
+What is the process for understanding grading policies?,0.0,0.0,0.0,0.0,0.6,1.0
+How can students late registration penalties?,0.0,0.0,0.0,0.0,0.0,0.0
+Guide for connecting to the campus wifi network,0.0,0.0,0.2,0.3333333333333333,0.0,0.0
+How do I understanding grading policies?,0.0,0.0,0.0,0.0,0.2,0.3333333333333333
+What is the process for booking appointments with academic advisors?,0.0,0.0,0.2,0.3333333333333333,0.2,0.3333333333333333
+Guide for booking appointments with academic advisors,0.0,0.0,0.4,0.6666666666666666,0.2,0.3333333333333333
+Guide for graduation eligibility requirements,0.0,0.0,0.0,0.0,0.0,0.0
+How can students applying for student accommodation?,0.0,0.0,0.4,0.6666666666666666,0.6,1.0
+Guide for requesting official academic transcripts,0.0,0.0,0.0,0.0,0.0,0.0
+Guide for using university library resources,0.0,0.0,0.2,0.3333333333333333,0.2,0.3333333333333333
+What is the process for booking appointments with academic advisors?,0.0,0.0,0.2,0.3333333333333333,0.2,0.3333333333333333
+How can students tuition fee payment policy?,0.0,0.0,0.0,0.0,0.0,0.0
+What is the process for course withdrawal guidelines?,0.0,0.0,0.0,0.0,0.0,0.0
+Guide for course withdrawal guidelines,0.0,0.0,0.0,0.0,0.0,0.0
+What is the process for tuition fee payment policy?,0.0,0.0,0.0,0.0,0.0,0.0
+How can students course withdrawal guidelines?,0.0,0.0,0.0,0.0,0.0,0.0
+Where can I find information about accessing your university email account?,0.0,0.0,0.4,0.6666666666666666,0.4,0.6666666666666666
+Where can I find information about understanding grading policies?,0.0,0.0,0.0,0.0,0.2,0.3333333333333333
+Where can I find information about applying for student accommodation?,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How do I graduation eligibility requirements?,0.0,0.0,0.2,0.3333333333333333,0.0,0.0
+What is the process for troubleshooting login issues on the student portal?,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How can students understanding grading policies?,0.0,0.0,0.6,1.0,0.2,0.3333333333333333
+What is the process for troubleshooting login issues on the student portal?,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How can students accessing your university email account?,0.0,0.0,0.4,0.6666666666666666,0.4,0.6666666666666666
+Where can I find information about using university library resources?,0.0,0.0,0.0,0.0,0.2,0.3333333333333333
+How can students graduation eligibility requirements?,0.0,0.0,0.0,0.0,0.0,0.0
+How do I using university library resources?,0.0,0.0,0.0,0.0,0.0,0.0
+How can students viewing the academic calendar?,0.0,0.0,0.0,0.0,0.6,1.0
+Guide for replacing a lost student id card,0.0,0.0,0.6,1.0,0.0,0.0
+Guide for resetting your university portal password,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How can students replacing a lost student id card?,0.0,0.0,0.6,1.0,0.6,1.0
+Where can I find information about resetting your university portal password?,0.0,0.0,0.4,0.6666666666666666,0.0,0.0
+How can students checking exam schedules?,0.0,0.0,0.6,1.0,0.6,1.0
+Guide for using university library resources,0.0,0.0,0.2,0.3333333333333333,0.2,0.3333333333333333
+Guide for graduation eligibility requirements,0.0,0.0,0.0,0.0,0.0,0.0
