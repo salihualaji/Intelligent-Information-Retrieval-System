@@ -1,0 +1,50 @@
+query_id,query,query_type
+1,course registration procedures,short
+2,Guide for checking exam schedules,normal
+3,requesting official academic transcripts,short
+4,accessing university email account,normal
+5,checking exam schedules,short
+6,viewing the academic calendar,normal
+7,reset university portal password,synonym
+8,understanding grading policies,normal
+9,request academic transcripts,synonym
+10,booking appointments with academic advisors,normal
+11,attendance and participation rules,normal
+12,replacing a lost student id card,normal
+13,replace lost student id card,synonym
+14,troubleshooting login issues student portal,normal
+15,installing university licensed software,normal
+16,grading policy explanation,paraphrase
+17,late registration penalties,normal
+18,connecting to campus wifi network,normal
+19,grading system explanation,paraphrase
+20,book appointment academic advisor,synonym
+21,guide booking academic advisor,paraphrase
+22,graduation eligibility requirements,normal
+23,apply for student accommodation,synonym
+24,request transcripts guide,paraphrase
+25,using university library resources,normal
+26,book advisor appointment process,paraphrase
+27,tuition fee payment policy,normal
+28,course withdrawal guidelines,normal
+29,withdraw course guide,paraphrase
+30,how to pay tuition fees,paraphrase
+31,withdraw course process,synonym
+32,find university email access info,paraphrase
+33,grading policy information,paraphrase
+34,apply for student housing,synonym
+35,graduation requirements,short
+36,fix login issues student portal,synonym
+37,login issue troubleshooting process,paraphrase
+38,access university email,synonym
+39,library resource usage info,paraphrase
+40,graduation eligibility criteria,paraphrase
+41,use university library,short
+42,view academic calendar,synonym
+43,replace student id guide,paraphrase
+44,reset portal password guide,paraphrase
+45,replace lost student id,synonym
+46,reset university portal password,synonym
+47,check exam schedules,synonym
+48,library usage guide,paraphrase
+49,graduation requirements guide,paraphrase
